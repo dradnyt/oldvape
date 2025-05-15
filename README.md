@@ -12,7 +12,7 @@
 1. Download the specific scripting utility of your choice. (swift or any good paid executor works like awp,zenith,nihon,sirhurt etc)
 2. Execute the provided loadstring below.
 ```luau
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/dradnyt/oldvape/refs/heads/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dradnyt/oldvape/refs/heads/main/NewMainScript.lua", true))()
 ```
 
 ## Possible Issues
